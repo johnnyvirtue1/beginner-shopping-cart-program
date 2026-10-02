@@ -1,1 +1,1 @@
-it is a beginner a basic shopping cart program that i have made in the way of learning python 
+it is a beginner basic shopping cart program that i have made in the way of learning python 
